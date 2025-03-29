@@ -11,7 +11,7 @@
 <br>
 <br>
 <div align="center">
- <img src="https://github.com/user-attachments/assets/60fe70db-d889-47e8-abeb-e3e01758564c" width="45%">
+ <img src="https://github.com/user-attachments/assets/fd7e1583-66a5-4c40-8833-cb76b64fe05f" width="45%">
  </div>
 
  <hr/>
